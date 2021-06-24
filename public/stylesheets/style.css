@@ -5,15 +5,15 @@ body {
 }
 
 a {
-  color: #00b7ff;
+  color: #f6b628;
 }
 
 .navbar {
-  background-color: darkcyan !important;
+  background-color: #f6b628 !important;
   padding: 20px;
 }
 .table thead {
-  background-color: darkcyan !important;
+  background-color: #f6b628 !important;
 }
 .table thead tr th {
   color: white !important;
@@ -30,11 +30,11 @@ h1 {
 
 .btn {
   background-color: white !important;
-  color: darkcyan !important;
-  border: 2px solid darkcyan !important;
+  color: #f6b628 !important;
+  border: 2px solid #f6b628 !important;
   margin-right: 30px;
 }
 
 .checked {
-  color: darkcyan !important;
+  color: #f6b628 !important;
 }
